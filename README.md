@@ -4,4 +4,3 @@
 3. It belongs to the Computer Vision Domain.'Eye Aspect Ratio' concept is used to detect and alert the drowsy driver.
 4. Project includes working directly with the 68 facial landmark detector(the .dat file can be downloaded on Google)(will first get a bz2 file, which we will have to unzip with WinZip,etc.) and DLib's face detector.
 
-Developed after referring of: https://www.youtube.com/watch?v=ksi42rwGyas
