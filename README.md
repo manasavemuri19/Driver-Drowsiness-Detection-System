@@ -1,6 +1,9 @@
 # Driver-Drowsiness-Detection-System
-1. It is a car-safety technology, when used, will reduce the accident ratio caused due to the drowsiness of the driver.
-2. It is built using DLib, OpenCV and Python.
-3. It belongs to the Computer Vision Domain.'Eye Aspect Ratio' concept is used to detect and alert the drowsy driver.
-4. Project includes working directly with the 68 facial landmark detector(the .dat file can be downloaded on Google)(will first get a bz2 file, which we will have to unzip with WinZip,etc.) and DLib's face detector.
+1. Developed a car-safety system in Python (PyCharm IDE) to detect driver drowsiness in real-time and reduce the accident ratio.
+2. Used DLib for facial landmark detection and OpenCV for real-time webcam feed processing.
+3. Integrated Faceutils to extract eye coordinates and calculate the Eye Aspect Ratio to detect prolonged eye closure.
+4. Triggered alert sounds using the PlaySound module when drowsiness was detected.
+5. Built a user-friendly GUI with Tkinter.
+6. Preprocessed and managed data using Pandas and NumPy for analysis.
+7. Achieved 98% detection accuracy.
 
